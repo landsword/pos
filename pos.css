@@ -1,0 +1,45 @@
+#data {
+    position: relative;
+    width: 60%;
+    float: left;
+}
+#data input {
+    border: none;
+    background-color: rgb(59, 179, 59);
+    color: white;
+    text-align: center;
+    font-size: 0.8rem;
+    width: 11.5rem;
+    height: auto;
+    padding: 1rem;
+    margin: 1rem;
+    
+}
+#menu {
+    position: relative;
+    width: 39%;
+    float: left;
+}
+#menu div {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+#menu div span:last-child {
+    margin-left: 0.5rem;
+}
+#sum {
+    border: none;
+    background-color: rgb(59, 179, 59);
+    color: white;
+    font-size: 0.5rem;
+    width: 3rem;
+    height: auto;
+    padding: 0.3rem;
+}
+textarea {
+    resize: none;
+    width: 4rem;
+    height: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
